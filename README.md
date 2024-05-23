@@ -117,3 +117,21 @@ Com as faixas etárias criadas, mais uma vez utilizei uma tabela dinâmica para 
 ![Nível de tolerância](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/13_nivel_tolerancia.png)
 
 Podemos concluir que a maioria das pessoas de todas as faixas etárias consideram muito importante respeitar opiniões contrárias. Porém, a faixa de idade que considera mais importante respeitar as opiniões contrárias é a de 51 anos ou mais. Quase 59% das pessoas que consideram muito importante respeitar opiniões contrárias estão nessa faixa etária. Podemos então, considerar essa faixa etária como a mais tolerante. Em contrapartida, a maioria das pessoas que consideram não ser importante respeitar opiniões contrárias também pertencem a faixa etária dos 51 anos ou mais, correspondente a 42% das pessoas que escolheram a opção 4.
+
+## Parte 3 - Escolhas partidárias
+
+**Qual escolha partidária, incluindo pessoas sem partido (Q30), possui eleitores mais jovens? E qual possui mais mulheres como apoiadoras?**
+
+Para responder essa pergunta, utilizei as mesmas faixas etárias da pergunta anterior. A pergunta feita para os entrevistados foi sobre qual a sua orientação política. As respostas foram enumeradas de 1 a 5, sendo 1 = republicano, 2 = democrata, 3 = independente, 4 = outros, 5 = sem preferência. O -1 refere-se aos que não souberam ou não quiseram responder.
+
+Na faixa dos eleitores mais jovens, ou seja, eleitores entre 18 e 30 anos de idade, a maioria prefere o partido democrata (36,29%), seguido pelos que preferem partidos independentes (quase 26%) e pelos republicanos (18,50%). Destaca-se também os quase 16% dos entrevistados que não tem preferência por um partido.
+
+![Partido x faixa etária](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/0_escolha_partidaria_18-30.png)
+
+Em relação as mulheres, a maioria (37,5%) apoiam o partido democrata, seguido pelo partido republicano (quase 28%) e as que apóiam partidos independentes (quase 20%). Destaca-se também os 13% de mulheres entrevistadas que não tem preferência partidária.
+
+![Mulheres x partido](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/2_apoio_mulheres.png)
+
+**Qual o perfil do público sem partido (independent ou no preference), em termos de idade e gênero? E dos republicanos? E dos democratas?**
+
+Para responder essas perguntas, deixei as pessoas que não souberam ou não quiseram responder de fora. Em termos de idade, 
