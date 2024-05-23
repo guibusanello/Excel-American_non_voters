@@ -1,7 +1,7 @@
 # Excel-American_non_voters
 Olá pessoal! Segue a minha resolução para o case proposto pelo Andre Yukio da Universidade dos Dados! 
 
-O título do desafio é "O que é considerado "ser americano" para o eleitor dos EUA?", e consiste em responder algumas perguntas de negócio com base em um dataset feito pela Ipsos for FiveThirtyEight.  O dataset "Nonvoters" do FiveThirtyEight apresenta dados provenientes de pesquisas conduzidas pela Ipsos, utilizando o KnowledgePanel da Ipsos, uma amostra online baseada em probabilidade recrutada para ser representativa da população dos EUA. 
+O título do desafio é "O que é considerado "ser americano" para o eleitor dos EUA?", e consiste em responder algumas perguntas de negócio com base em um dataset feito pela Ipsos da FiveThirtyEight.  O dataset "Nonvoters" apresenta dados provenientes de pesquisas conduzidas pela Ipsos, utilizando o KnowledgePanel da Ipsos e uma amostra online baseada em probabilidade para ser representativa de toda a população dos EUA. 
 
 A pesquisa foi realizada de 15 a 25 de setembro entre uma amostra de cidadãos americanos, com oversampling de respondentes jovens, negros e hispânicos, totalizando 8.327 entrevistados, sendo uma parte descartada por não corresponder aos critérios específicos. O dataset inclui 5.239 indivíduos que responderam e se emparelharam com o arquivo eleitoral e 597 indivíduos que responderam que não se emparelharam, mas se descreveram como votando "raramente" ou "nunca", todos elegíveis para pelo menos 4 eleições.
 
@@ -64,10 +64,48 @@ Observamos que existe sim uma correlação entre o nível educacional e o poder 
 
 **Um nível educacional maior implica em maior responsabilidade em relação a votar?**
 
+Foi questionado aos participantes sobre a importância de uma série de itens para ser considerado um bom americano. Dentre os itens, um deles se refere a o quão importante é votar nas eleições. A classificação da importância se deu em uma escala de 1 a 4, onde 1 é "muito importante", 2 é "importante", 3 é "não tão importante" e 4 é "não é importante". O -1 no gráfico refere-se a quem não quis ou não soube responder. 
 
+Analisando os resultados dessa pergunta em relação ao nível educacional, 81,52% dos entrevistados acredita que votar nas eleições é muito importante, independente do nível de escolaridade. Levando em consideração o nível de escolaridade, a maioria pertence ao grupo de pessoas que tem o ensino superior completo (43%). Já para o grupo de pessoas que consideram que votar não é importante, a maioria é de pessoas que tem até o ensino médio completo (58,75%).
 
+![Nível educacional x Importância do voto](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/3_nivel_educ_importancia_voto.png)
 
+**Dentre os não-brancos, o que é mais importante para ser um bom americano: votar em eleições, demonstrar a bandeira americana ou apoiar o exército?**
 
+Para a maioria das pessoas negras, hispânicas e outras, votar nas eleições é muito importante. Para quase 82% das pessoas que se consideram negras, quase 80% dos hispânicos e 78% dos que se consideram de outras raças, votar é sim, um ato muito importante.
 
+![Importância do voto para não-brancos](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/4_importancia_voto.png)
 
+Para a maioria das pessoas negras, demonstrar a bandeira americana é um ato que não é tão importante. Cerca de 52% consideraram esse ato não tão importante ou até mesmo não importante. Ao contrário das pessoas negras, a maioria dos hispânicos considera mostrar a bandeira americana um ato importante. Cerca de 64% consideram esse ato muito importante ou importante. Por fim, a maioria das pessoas que se consideram de outras raças acredita que mostrar a bandeira é um ato não tão importante (aproximadamente 30%).
 
+![Mostrar a bandeira dos EUA](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/5_mostrar_bandeira.png)
+
+Para a maioria dos entrevistados não-brancos, apoiar o exército é um ato muito importante (57,38%). Para pouco mais de 59% das pessoas que se consideram negras, 59% dos hispânicos e 49% dos que se consideram de outras raças, apoiar o exército é sim, um ato muito importante.
+
+![Apoiar o exército](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/6_apoio_exercito.png)
+
+Considerando somente as respostas "Muito Importante", a preferência predominante é o ato de votar em eleições, seguido pelo apoio aos militares, e por fim, mostrar a bandeira dos EUA.
+
+![Preferência da população](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/9_pref_pop_grafico.png)
+
+**Existe uma diferença na preferência de não-brancos de maior poder aquisitivo vs menor poder aquisitivo?**
+
+Para responder essa pergunta, além da tabela e gráficos dinâmicos, utilizei a Segmentação de dados do Excel para filtrar os resultados de acordo com a faixa salarial dos entrevistados. Considerando maior poder aquisitivo igual a faixa de salário $125k e o menor poder aquisitivo a faixa de salário menor que $40k, temos o seguinte resultado.
+
+*Maior poder aquisitivo*
+
+![Maior poder aquisitivo](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/10_maior_poder_aquisitivo.png)
+
+Considerando um poder aquisitivo maior e uma maior importância do voto, os hispânicos são a maioria. Em relação a variável mostrar a bandeira, a maioria das pessoas com maior poder aquisitivo consideram esse ato não tão importante. Por fim, a maioria das pessoas não-brancas com alto poder aquisitivo consideram apoiar o exército uma prática muito importante.
+
+*Menor poder aquisitivo*
+
+![Menor poder aquisitivo](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/11_menor_poder_aquisitivo.png)
+
+Considerando um poder aquisitivo menor e uma maior importância do voto, os negros são a maioria. Em relação a variável mostrar a bandeira, o mesmo número de pessoas consideram esse ato importante ou não tão importante, com destaque para a maioria dos hispânicos considerando esse ato muito importante e a maioria dos negros considerando esse ato importante. Por fim, a maioria das pessoas não-brancas com baixo poder aquisitivo consideram apoiar o exército uma prática muito importante.
+
+Considerando ambos os gráficos, podemos notar que o poder aquisitivo influencia mais na importância ou não em mostrar a bandeira dos EUA e menos em relação a importância do voto e o apoio ao exército.
+
+## Parte 3 - Escolhas partidárias
+
+**Qual escolha partidária, incluindo pessoas sem partido (Q30), possui eleitores mais jovens? E qual possui mais mulheres como apoiadoras?**
