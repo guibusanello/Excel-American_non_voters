@@ -106,6 +106,14 @@ Considerando um poder aquisitivo menor e uma maior importância do voto, os negr
 
 Considerando ambos os gráficos, podemos notar que o poder aquisitivo influencia mais na importância ou não em mostrar a bandeira dos EUA e menos em relação a importância do voto e o apoio ao exército.
 
-## Parte 3 - Escolhas partidárias
+**Considerando que respeitar a opinião dos outros (Q2_8) é um indício de tolerância, ao compararmos as gerações de 18-30 anos, 31-50 anos e +51, qual é a mais tolerante e a menos tolerante?**
 
-**Qual escolha partidária, incluindo pessoas sem partido (Q30), possui eleitores mais jovens? E qual possui mais mulheres como apoiadoras?**
+Para criar as faixas etárias sugeridas pelo enunciado do exercício, utilizei a função SE do Excel. O resultado pode ser visto na figura abaixo:
+
+![Função SE](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/12_exemplo_func%CC%A7a%CC%83o_se.png)
+
+Com as faixas etárias criadas, mais uma vez utilizei uma tabela dinâmica para criar um gráfico de barras para visualizar os resultados. A pergunta feita aos entrevistados estava relacionada ao quanto é considerado importante ou não respeitar as opiniões de quem discorda da sua opinião. Assim como nas outras variáveis, a classificação da importância se deu em uma escala de 1 a 4, onde 1 é "muito importante", 2 é "importante", 3 é "não tão importante" e 4 é "não é importante". O -1 no gráfico refere-se a quem não quis ou não soube responder. O resultado pode ser visto no gráfico abaixo:
+
+![Nível de tolerância](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte2/13_nivel_tolerancia.png)
+
+Podemos concluir que a maioria das pessoas de todas as faixas etárias consideram muito importante respeitar opiniões contrárias. Porém, a faixa de idade que considera mais importante respeitar as opiniões contrárias é a de 51 anos ou mais. Quase 59% das pessoas que consideram muito importante respeitar opiniões contrárias estão nessa faixa etária. Podemos então, considerar essa faixa etária como a mais tolerante. Em contrapartida, a maioria das pessoas que consideram não ser importante respeitar opiniões contrárias também pertencem a faixa etária dos 51 anos ou mais, correspondente a 42% das pessoas que escolheram a opção 4.
