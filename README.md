@@ -134,4 +134,23 @@ Em relação as mulheres, a maioria (37,5%) apoiam o partido democrata, seguido 
 
 **Qual o perfil do público sem partido (independent ou no preference), em termos de idade e gênero? E dos republicanos? E dos democratas?**
 
-Para responder essas perguntas, deixei as pessoas que não souberam ou não quiseram responder de fora. Em termos de idade, 
+Para responder essas perguntas, deixei as pessoas que não souberam ou não quiseram responder de fora. Além disso, utilizei as faixas etárias definidas anteriormente. Foi questionado para as pessoas que apóiam partidos independentes, outros, ou que não tem preferência, se a pessoa se considera mais como republicano (1) ou democrata (2). Em termos de idade, em todas as faixas etárias, as pessoas se consideram mais democratas do que republicanas. A maior diferença é observada na faixa dos 18-30 anos. Quase 62% desse público se considera democrata. Na faixa dos 51+, a diferença entre democratas e republicanos é de apenas uma pessoa.
+
+![Idade x público sem partido](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/3_sem_partido_idade1.png)
+
+Em termos de gênero, a maioria de homens e mulheres se consideram mais democratas do que republicanos. A diferença entre os homens é menor (51% a 49% a favor dos democratas) em relação às mulheres (57% a 43% a favor dos democratas).
+
+![Gênero x público sem partido](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/4_sem_partido_genero1.png)
+
+O perfil dos eleitores republicanos foi gerado a partir da pergunta Q31, que considerou os entrevistados que são republicanos como mais (1) ou menos (2) adeptos as idéias do partido. Também retiramos da análise aqueles que não souberam ou não quiseram responder. Em termos de idade, a maioria dos republicanos possuem 51 anos ou mais (63,40%), e em relação ao gênero, quase 51% são mulheres.
+
+![Republicanos x idade](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/5_republicanos_idade1.png)
+![Republicanos x gênero](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/6_republicanos_genero2.png)
+
+O perfil dos eleitores democratas foi gerado a partir da pergunta Q32, que considerou os entrevistados que são republicanos como mais (1) ou menos (2) adeptos as idéias do partido. Também retiramos da análise aqueles que não souberam ou não quiseram responder. Em termos de idade, a maioria dos democratas possuem 51 anos ou mais (57%), e em relação ao gênero, 54% são mulheres.
+
+![Democratas x idade](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/7_democratas_idade1.png)
+![Democratas x gênero](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/8_democratas_genero1.png)
+
+**Existe uma correlação entre idade e propensão a votos (voter_category)?**
+
