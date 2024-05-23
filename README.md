@@ -44,7 +44,7 @@ A maioria dos entrevistados (27,90%) tem um salário anual entre $75k e $125k, e
 
 De acordo com os dados levantados na pesquisa, os que se declararam brancos (White) são os que tem maior e menor poder aquisitivo, conforme o gráfico abaixo. Esse fato pode ser justificado pela grande maioria dos entrevistados ser da raça branca (63,57%).
 
-![Faixa salarial x raça](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte1/8_faixa_salarial_rac%CC%A7a.png))
+![Faixa salarial x raça](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte1/8_faixa_salarial_rac%CC%A7a.png)
 
 Para aprofundar mais a análise, o gráfico abaixo foi gerado destacando a raça no eixo X, permitindo analisar a faixa salarial por raça mais facilmente. Podemos observar que a maioria dos que se declararam negros na pesquisa possui uma faixa salarial menor que $40k anuais, 35,84% mais especificamente. Apenas 13,63% dos entrevistados negros tem uma faixa salarial acima dos $125k anuais.
 
@@ -56,8 +56,13 @@ A maioria dos que se declararam brancos ganham na faixa de $75-$125k por ano (28
 
 **Ainda assumindo que temos uma amostra representativa, podemos dizer que nível educacional e poder aquisitivo estão correlacionados?**
 
-Da mesma forma que na pergunta anterior, para responder essa questão foram gerados dois gráficos para compreender melhor essa correlação entre nível educacional e poder aquisitivo.
+Observamos que existe sim uma correlação entre o nível educacional e o poder aquisivo, pois a maioria das pessoas que ganham mais de $125k por ano possuem ensino superior completo, quase 41%. Em contrapartida, a maioria das pessoas que tem até o ensino médio completo, 43,54%, ganham menos que $40k por ano. Além disso, podemos observar que as maiores faixas salariais são da população que concluiu o ensino médio, e a maioria das menores faixas salariais são da população que concluiu até o ensino médio.
 
+![Nível educacional x salário](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte1/9_nivel_educacional_salario.png)
+
+## Parte 2 - O que é considerado ser um bom americano?
+
+**Um nível educacional maior implica em maior responsabilidade em relação a votar?**
 
 
 
