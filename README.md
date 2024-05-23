@@ -154,3 +154,39 @@ O perfil dos eleitores democratas foi gerado a partir da pergunta Q32, que consi
 
 **Existe uma correlação entre idade e propensão a votos (voter_category)?**
 
+Uma das questões feitas aos entrevistados referiu-se a frequência de votação do entrevistado. As respostas foram divididas em três: always (entrevistado votou em todas ou em quase todas as eleições em que podia votar), sporadic (entrevistado votou em ao menos duas eleições em que podia votar) e rarely/never (entrevistado não votou ou votou em apenas uma de todas as eleições em que podia votar). As faixas etárias utilizadas foram as mesmas que nas perguntas anteriores. O resultado pode ser visto no gráfico abaixo:
+
+![Idade x Propensão ao voto](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte3/9_idade_propensao_voto.png)
+
+Podemos notar que, a medida que a faixa etária aumentou, também aumentou a propensão a ir votar com mais frequência. 85% das pessoas com 51 anos ou mais votaram em ao menos duas eleições das que poderiam votar. Na faixa etária dos 18 aos 30 anos, a maioria dos entrevistados não votou ou votou em apenas uma de todas as eleições em que poderiam votar (quase 48%).
+
+## Parte 4 - Estratégias eleitorais
+
+**Se você fizesse parte da equipe de marketing do partido republicano, qual público você deveria mirar para atrair mais votos para o partido?**
+
+Com base no que já discutimos, podemos recomendar ao partido republicano focar no público que declarou não apoiar nenhum partido e também focar no público que tem o perfil do partido. Porém, vamos aprofundar mais essas recomendações com base na pergunta Q14. A pergunta foi: Com base nas suas percepções e experiências do Partido Republicano, qual é a descrição mais precisa da atitude do partido em relação a pessoas como você? As respostas foram numeradas de 1 a 5, sendo 1 = O Partido Republicano quer que pessoas como eu votem e se esforça para ganhar nossos votos, 2 = O Partido Republicano quer que pessoas como eu votem, mas não se esforça muito para ganhar nossos votos, 3 = O Partido Republicano não se importa se pessoas como eu votam ou não, 4 = O Partido Republicano não quer que pessoas como eu votem, mas não se esforçam para nos impedir de votar, 5 = O Partido Republicano não quer que pessoas como eu votem e se esforça muito para nos impedir de votar. 
+
+Com base nas respostas da pergunta Q14, vamos analisar o perfil dos entrevistados em relação a idade, escolaridade, raças, gênero, faixa salarial e frequência de voto.
+
+![Idade](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/1_idade.png)
+
+Como dito anteriormente, parte do perfil dos entrevistados que se consideram republicanos está na faixa dos 51 anos ou mais. Quase 29% dos entrevistados nessa faixa etária consideram que o partido republicano não quer que pessoas como eles votem. Nessa mesma faixa etária, quase 35% responderam que consideram que o partido republicano quer que pessoas como elas votem. Além disso, a maioria das pessoas que têm entre 18-30 anos consideram que o partido republicano não quer que pessoas como eles votem, ou seja, aqui temos mais uma possibilidade de buscar votos.
+
+![Escolaridade](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/2_escolaridade.png)
+
+A maioria das pessoas que votaram na opção 5 têm ensino superior completo (quase 33%), seguido justamente pelo público que votou na opção 1 (26,40%). Aqui temos mais uma possibilidade de buscar votos. E essa mesma lógica se aplica ao público que não concluiu o ensino superior e aos que concluíram até o ensino médio.
+
+![Raça](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/3_racas.png)
+
+Considerando todas as raças, podemos observar que a maioria dos que se consideraram brancos ao responder a pesquisa, também votaram na opção 1 ou 2 (pouco mais de 60%). Pouco mais de 19% dos brancos votaram na opção 5, e podem ser um público alvo do partido republicano para conseguir mais votos. Para destacar mais as possibilidades em relação as outras raças, vamos analisar o gráfico abaixo:
+
+![Raça sem brancos](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/4_racas_sem_brancos.png)
+
+Podemos observar mais claramente que a maioria dos entrevistados de outras raças responderam a opção 5 na pergunta Q14. 54% dos que se consideraram negros responderam que o partido republicano não quer que pessoas como eles votem. O partido republicano pode criar estratégias para entender o motivo dessa rejeição e criar estratégias para buscar os votos dessas pessoas.
+
+![Gênero](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/5_genero.png)
+
+
+
+
+
