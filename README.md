@@ -186,7 +186,76 @@ Podemos observar mais claramente que a maioria dos entrevistados de outras raça
 
 ![Gênero](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/5_genero.png)
 
+Considerando o gênero, temos os dois extremos representando a maioria dos entrevistados. 31% dos homens escolheram a opção 1 como resposta, enquanto 28% dos homens escolheram a opção 5 como resposta. Já no caso das mulheres, 32% escolheram a opção 1 como resposta, enquanto 26,52% das mulheres escolheram a opção 5 como respostas. O partido pode utilizar a influência da maioria dos entrevistados para convencer as outras pessoas a mudarem sua visão sobre o partido republicano.
 
+![Faixa salarial](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/6_faixa_salarial.png)
 
+Aqui podemos aplicar a mesma estratégia da variável gênero, pois nesse caso também temos a maioria dos entrevistados distribuídos nos dois extremos. Utilizando a faixa de $75k-$125k como exemplo, temos pouco mais de 32% dos entrevistados que escolheram a opção 1, enquanto 28,5% escolheram a opção 5.
 
+![Frequência de voto](https://github.com/guibusanello/Excel-American_non_voters/blob/main/assets/parte4/7_freq_voto.png)
 
+Por fim, mais uma vez temos a maioria dos entrevistados distribuídos nos dois extremos. 33% dos entrevistados que votaram em todas as eleições que podiam votar escolheram a opção 1 como resposta, enquanto que quase 32% que votou uma vez ou não votou em todas as eleições que podiam escolheram a opção 5 como resposta.
+
+## Conclusões
+
+Para deixar mais clara as recomendações ao partido republicano, pedi uma ajuda para o ChatGPT. As recomendações para o partido republicano são:
+
+**Faixa Etária**
+
+💬 Mensagem Positiva: Reforce mensagens que mostram que o partido valoriza e quer o voto desse grupo, abordando questões como segurança financeira na aposentadoria e cuidados de saúde.
+
+🔍 Pesquisa: Investigue mais a fundo por que 29% desse grupo sente que o partido não os quer votando e trabalhe para eliminar essas percepções negativas.
+
+📱 Engajamento Digital: Use plataformas de mídia social populares entre os jovens para comunicar políticas e valores do partido.
+
+🗣️ Voz Jovem: Dê voz a líderes jovens dentro do partido para atrair eleitores dessa faixa etária.
+
+**Escolaridade**
+
+📊 Políticas Educacionais: Promova políticas que favoreçam a educação superior, como redução de dívidas estudantis e incentivo à inovação.
+
+🎓 Alianças Acadêmicas: Construa alianças com instituições de ensino superior para mostrar apoio à educação de qualidade.
+
+📢 Campanhas de Treinamento e Emprego: Destaque políticas que promovem treinamento vocacional e oportunidades de emprego.
+
+**Raça**
+
+🤝 Conexão Comunitária: Enfatize políticas de interesse comum, como segurança e economia local.
+
+📋 Feedback e Ajustes: Realize pesquisas e grupos focais para entender melhor as razões da rejeição e ajustar políticas conforme necessário.
+
+📣 Representação: Aumente a representação de minorias no partido para mostrar inclusão e diversidade.
+
+**Gênero**
+
+👨‍👦 Políticas Familiares: Foque em políticas que beneficiem a família e o bem-estar econômico.
+
+👩‍⚕️ Saúde e Educação: Destaque políticas de saúde e educação que são particularmente importantes para eleitoras.
+
+💪 Empoderamento Feminino: Promova lideranças femininas dentro do partido para inspirar confiança e apoio.
+
+**Faixa salarial**
+
+💼 Políticas Econômicas: Enfatize políticas que beneficiem a classe média, como redução de impostos e incentivos para pequenas empresas.
+
+📈 Crescimento Econômico: Mostre como as políticas do partido podem melhorar ainda mais a estabilidade e crescimento econômico dessa faixa salarial.
+
+**Frequência de voto**
+
+Votantes Frequentes:
+
+🔄 Fidelização: Mantenha esses eleitores engajados com comunicações regulares sobre os sucessos do partido e chamadas à ação.
+
+Votantes Ocasionalmente ou Nunca:
+
+📬 Campanhas de Mobilização: Crie campanhas específicas para motivar esses eleitores a votarem, destacando a importância de cada voto.
+
+🚪 Ações Comunitárias: Realize visitas de porta em porta e eventos comunitários para engajar diretamente esses eleitores e entender suas preocupações.
+
+**Estratégias gerais**
+
+📊 Dados e Análise: Utilize continuamente dados para ajustar e refinar as estratégias de acordo com as mudanças no perfil dos eleitores e suas percepções.
+
+🌐 Comunicação Omnicanal: Use uma abordagem de comunicação omnicanal para alcançar diferentes grupos através dos meios que eles mais utilizam.
+
+🎯 Mensagens Personalizadas: Desenvolva mensagens específicas para cada segmento de eleitores, garantindo que as preocupações e valores de cada grupo sejam abordados de forma eficaz.
